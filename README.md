@@ -8,7 +8,7 @@ If you have any doubt or want to contribute feel free to connect  me up on [Link
 
 # How to Use    
 step1.first click on the option browse files,it will open the camera and files in your mobile  
-step2.choose any of the option camera or files and take a picture of your face  
+step2.choose any of the option camera or files and take a picture of your cotoon plant  
 step3.after loading the image,click on predict button then it will predict that your cotton plant is diseased or not
 
 # Deployment   
